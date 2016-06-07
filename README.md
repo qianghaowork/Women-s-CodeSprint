@@ -22,6 +22,7 @@ Your output should consist of 2 space-separated values on a single line. For the
 Sample Input 0
 
 4
+
 1 1 0 0  
 
 Sample Output 0
@@ -31,6 +32,7 @@ Yes 2
 Sample Input 1
 
 4
+
 1 0 1 1
 
 Sample Output 1
@@ -71,12 +73,15 @@ For each string S received as input, print the consonant reversal of S on a new 
 Sample Input
 
 2
+
 abcde
+
 eabafgs
 
 Sample Output
 
 adcbe
+
 easagfb
 
 Explanation
@@ -121,38 +126,59 @@ Note: Each group must be printed on a new line, and the elements of each group m
 Sample Input 0
 
 11
+
 133
+
 213
+
 312
+
 331
+
 313
+
 123
+
 133
+
 24
+
 56
+
 5
+
 331
 
 Sample Output 0
 
 5
+
 312 213 123
+
 331 313 133
 
 Sample Input 1
 
 4
+
 1
+
 3
+
 10
+
 33
 
 Sample Output 1
 
 4
+
 1
+
 10
+
 3
+
 33
 
 Explanation
@@ -217,16 +243,27 @@ Print the total distance Naruto must travel to reach the finish line if he choos
 Sample Input
 
 1
+
 7 9
+
 0 6
+
 0 1 1
+
 0 2 1
+
 0 3 2
+
 0 4 3
+
 1 5 2
+
 2 6 4
+
 3 6 2
+
 4 6 4
+
 5 6 1
 
 Sample Output
@@ -271,6 +308,7 @@ Print a single line of n space-separated integers where the ith number denotes t
 Sample Input 0
 
 4
+
 5 3 6 2
 
 Sample Output 0
@@ -280,6 +318,7 @@ Sample Output 0
 Sample Input 1
 
 3
+
 1 2 3
 
 Sample Output 1
@@ -341,12 +380,15 @@ For each line of the T test cases (where 0<=i<T), print the lexicographically la
 Sample Input
 
 2
+
 abcde 2
+
 dcabe 2
 
 Sample Output
 
 cde
+
 dce
 
 Explanation
