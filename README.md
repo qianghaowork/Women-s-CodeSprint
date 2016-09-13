@@ -1,4 +1,4 @@
-1. Even Training
+##1. Even Training
 
 Maria loves playing soccer. Because she wants to play professionally when she grows up, she tracks her training by marking her calendar with a 1 on the days that she trained, and a 0 on the days she did not. She also loves math, and wants your help connecting her soccer training with what she's learning about even and odd numbers in school.
 
@@ -49,7 +49,7 @@ Sample 1:
 n=4, calendar = "1 0 1 1"
 Maria trained on 3 days; because this is an odd number, we print No 3. 
 
-2. Consonant Reversal
+##2. Consonant Reversal
 
 Ritika gives N strings to Semona and asks her to perform a consonant reversal on each string S such that the indexed positions of its vowels (a, e, i, o, and u) are unchanged but all the consonants are reversed. This means that each vowel must be at the same exact index before and after the reversal. Because the value of N is very large, Semona wants your help accomplishing this with code!
 
@@ -93,7 +93,7 @@ This string has 2 vowels that must stay in place: the a at index 0 and the e at 
 S1 = "eabafgs"
 This string has 3 vowels that must stay in place (at indices 0, 1, and 3). We reverse only the consonants (leaving the vowels in place), and print the result (easagfb) on a new line.
 
-3. Secret Message Groups
+##3. Secret Message Groups
 
 Doreen is trying to decode a message in the form of N strings, where each string is composed of numeric characters. To do so, she must take each string i (where 0<=i<n) and put it into a group such that every string in each group has the same frequency of 0-9 digits as every other string within that same group. If the message contains 2 or more instances of the same exact string, she must keep 1 instance of that string and get rid of its duplicates.
 
@@ -203,7 +203,7 @@ G3 = {10} has one 1 and one 0.
 G4 = {33} has two 3s.
 The maximum size, M, of these groups is 1, so every group will be printed in our output, and a group of 1 element is already sorted with respect to itself. The lexicographic order is G1 < G3 < G2 < G4, so we print the contents of each of those respective groups as a new line. 
 
-4. Annual Car Race
+##4. Annual Car Race
 
 Naruto is participating in Hidden Leaf village's Annual Car Race. There are N connected dragstrips in the village.
 
@@ -270,7 +270,7 @@ Sample Output
 
 7
 
-5. Veronica Mars and the Binary Search Tree
+##5. Veronica Mars and the Binary Search Tree
 
 With the help of Mac, Veronica Mars just came up with a new way of numbering Binary Search Tree(BST) nodes! She assigns the number 1 to the root node, and any node indexed as i will have a left child indexed as 2i and a right child indexed as 2i+1.
 
@@ -353,7 +353,7 @@ The BST formed is
 
 * The node indices are written in parentheses.
 
-6. Smriti and the Strings
+##6. Smriti and the Strings
 
 Smriti is learning about strings in school and asks her best friend, Stephanie, to give her a practice problem.
 
